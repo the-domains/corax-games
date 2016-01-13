@@ -1,7 +1,7 @@
 name: Corax Games
 favicon: null
-layout_spectrum: 0.21940931328572333
-typography_spectrum: 0.36103774909861386
+layout_spectrum: 1
+typography_spectrum: 0.15145
 cta:
   domain: null
   bucket: null
